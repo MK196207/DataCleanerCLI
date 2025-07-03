@@ -1,7 +1,6 @@
 # Data Cleaner CLI
 
-**Data Cleaner CLI** to interaktywne narzędzie w Pythonie do czyszczenia danych kolumnowych z plików CSV — działające w konsoli. Idealne jako projekt edukacyjny dla początkujących analityków danych lub aspirujących Data Engineerów.
-
+**Data Cleaner CLI** to interaktywne narzędzie w Pythonie do czyszczenia danych kolumnowych z plików CSV — działające w konsoli. 
 ## Funkcje
 
 - Przetwarzanie każdej kolumny z osobna
